@@ -1,0 +1,83 @@
+{
+  "app_name": "Bail Reckoner",
+  "app_subtitle": "Bail Assessment & Legal Rights Portal (BNSS 2023)",
+  "nav": {
+    "dashboard": "Dashboard",
+    "my_cases": "My Cases",
+    "add_case": "New Assessment",
+    "know_your_rights": "Know Your Rights",
+    "legal_aid": "Legal Aid (DLSA)",
+    "audit_trail": "Audit Trail",
+    "judge_queue": "Assigned Cases",
+    "user_management": "User Directory",
+    "offence_rules": "Offence Rules",
+    "applications": "Applications Queue",
+    "email_logs": "Email Logs",
+    "analytics": "Analytics",
+    "logout": "Sign Out",
+    "login": "Sign In",
+    "register": "Register"
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "download_pdf": "Download PDF",
+    "view_details": "View Details",
+    "search": "Search...",
+    "status": "Status",
+    "actions": "Actions",
+    "disclaimer": "Guidance only, not legal advice. Please consult a licensed advocate or your District Legal Services Authority (DLSA).",
+    "listen": "Listen",
+    "stop": "Stop",
+    "read_aloud": "Read Aloud"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "cases_overview": "Cases Overview",
+    "next_deadlines": "Upcoming Statutory Deadlines",
+    "active_cases": "Active Undertrial Cases",
+    "new_case_btn": "Start Bail Assessment",
+    "days_remaining": "days remaining",
+    "default_bail_tracker": "Section 187 Default Bail Tracker"
+  },
+  "wizard": {
+    "step1_title": "1. Person In Custody Details",
+    "step2_title": "2. Offence Selection (BNSS / BNS)",
+    "step3_title": "3. Custody & Antecedents",
+    "step4_title": "4. Verification & Documents",
+    "full_name": "Full Legal Name",
+    "age": "Age (years)",
+    "gender": "Gender",
+    "relationship": "Your Relationship to Accused",
+    "phone": "Contact Phone",
+    "address": "Permanent Address",
+    "fir_number": "FIR / Crime Number",
+    "police_station": "Police Station",
+    "district": "District",
+    "court": "Jurisdictional Court",
+    "arrest_date": "Date of Arrest",
+    "remand_date": "Date of First Remand",
+    "prior_conviction": "Any Prior Convictions?",
+    "other_pending_cases": "Any Other Pending Cases?",
+    "run_assessment_btn": "Calculate Bail Eligibility"
+  },
+  "assessment": {
+    "verdict": "Eligibility Verdict",
+    "legal_basis": "Legal Basis",
+    "reasoning": "Plain Language Reasoning",
+    "next_steps": "Recommended Next Steps",
+    "bailable_badge": "Bailable Offence",
+    "default_bail_badge": "Statutory Default Bail",
+    "submit_court_btn": "Submit Application to Court Queue",
+    "download_report_btn": "Download Assessment Report (PDF)",
+    "download_draft_btn": "Download Auto-Drafted Petition (PDF)"
+  },
+  "rights": {
+    "title": "Arrestee Constitutional & Statutory Rights",
+    "subtitle": "Guaranteed under the Constitution of India and the Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "download_card": "Download Rights Card (PDF)",
+    "legal_basis_label": "Legal Authority"
+  }
+}
