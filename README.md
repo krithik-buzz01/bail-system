@@ -1,7 +1,5 @@
 # Bail Reckoner: Bail Assessment & Legal Rights Calculator (BNSS 2023)
 
-An enterprise-grade, full-stack decision-support and legal rights portal built for the Indian legal framework under the **Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)** and the **Bharatiya Nyaya Sanhita, 2023 (BNS)**, replacing the historic Code of Criminal Procedure, 1973 (CrPC) and Indian Penal Code (IPC).
-
 Bail Reckoner provides three distinct, role-based portals for **Citizens**, **Court Registry Administrators**, and **Judicial Officers**, empowering undertrial prisoners, families, advocates, and judges with automated statutory timelines, legal calculators, bilingual legal rights, automated draft bail petitions, and cryptographic audit accountability.
 
 ---
